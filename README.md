@@ -1,6 +1,9 @@
 # ics604-final-project
 
-## Analyzing Anime Trends in 2018 and Viewer Behavior
+## Analyzing Anime Trends in 2018 and Viewer Behaviors
+
+
+This project analyzes anime trends, adaptation success, and viewer behavior using MyAnimeList datasets from 2018 and 2023. It identifies top 50 TV anime in 2018 and their source material, examines the relationship between manga scores and their anime adaptation scores, and explores gender-based differences in shounen and shoujo viewing patterns. Methods include data preprocessing, regression analysis, correlation, bootstrap confidence intervals, and hypothesis testing with effect size evaluation. Results show a strong positive relationship between manga scores and their anime adaptation scores, minimal gender differences in shounen viewing, and a large gender difference in shoujo consumption.
 
 ### Dataset Links:
 - AnimeList.csv: https://www.kaggle.com/datasets/azathoth42/myanimelist?select=AnimeList.csv
