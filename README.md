@@ -13,8 +13,9 @@ This project analyzes anime trends, adaptation success, and viewer behavior usin
 - manga.csv: https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist/data?select=manga.csv
 
 Please download the datasets from the links above. 
+To download the datasets you will need to login into Kaggle.
 
-### Setting up the Environment
+### Instructions to run the code on Google Colab
 - Please use Google Colab to run the Jupyter Notebook.
 - In your Google Drive, please create a folder named "anime_data" in your My Drive. 
 - In the "anime_data" folder, please put/upload all five dataset zip files to the folder. 
