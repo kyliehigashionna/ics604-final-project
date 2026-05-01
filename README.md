@@ -15,10 +15,11 @@ This project analyzes anime trends, adaptation success, and viewer behavior usin
 Please download the datasets from the links above. 
 To download the datasets you will need to login into Kaggle.
 
-### Instructions to run the code on Google Colab
-- Please use Google Colab to run the Jupyter Notebook.
+### Instructions to Run the Code on Google Colab
+- Please use Google Colab Pro to run the Jupyter Notebook.
 - In your Google Drive, please create a folder named "anime_data" in your My Drive. 
-- In the "anime_data" folder, please put/upload all five dataset zip files to the folder. 
-- When running the Jupyter Notebook, some of the cells may take 15 minutes or more depending on the runtime hardware. 
-- For a faster run, please use the G4 GPU hardware accelerator where the longest time it took to run a cell was around 5 minutes. 
-- Run the cells from top to bottom. 
+- Upload all five dataset ZIP files into the "anime_data" folder.
+- When running the Jupyter Notebook, some of the cells may take 15 minutes or more, depending on the runtime hardware. 
+- For faster performance, use the G4 GPU hardware accelerator. The longest cell runtime observed was around 5 minutes.
+- If you are using the free version of Google Colab, you may also use the v5e-1 TPU hardware accelerator.
+- Run the notebook cells from top to bottom. 
